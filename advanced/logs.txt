@@ -1,0 +1,4 @@
+2019-04-09 15:58:04,710 INFO     [how_to_logging.py:11] This will not show up.
+2019-04-09 15:58:04,710 WARNING  [how_to_logging.py:12] This will.
+2019-04-09 15:58:04,710 DEBUG    [how_to_logging.py:13] This is a debug message.
+2019-04-09 15:58:04,710 CRITICAL [how_to_logging.py:14] A critical error occurred.
